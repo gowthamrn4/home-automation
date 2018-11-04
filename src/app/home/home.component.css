@@ -1,0 +1,38 @@
+.container{
+    padding-top: 110px !important;
+}
+.helpLine{
+    padding-top:0 !important;
+}
+.helpLineBody{
+    padding: 30px 0px !important;
+    background-color: #9c27b0 !important;
+    color: white;
+}
+.iconCall a{
+        color: white;
+        font-size: 2rem;
+}
+.iconCall{
+    padding-top: 2.5rem;
+}
+.FeaturesCards{
+    padding-top: 3rem;
+    padding-left: 3rem;
+}
+.head2{
+    border:2px solid gray;
+    padding:10px;
+    
+}
+h2{
+    font-weight:400;
+}
+h4{
+    font-weight: 500;
+}
+@media (max-width:567px){
+    .iconCall{
+        padding-top: 0;
+    }
+}

@@ -1,0 +1,71 @@
+.box
+{
+    background-color:#f2f4f5;
+
+}
+.box h3,p
+{
+padding:30px;
+font-weight:bold;
+}
+.box1
+{
+  
+   background-color:#f2f4f5;
+}
+.box2
+{
+    background-color:#f2f4f5;
+    font-size:15px;
+    padding:10px;
+    font-weight:bold;
+}
+.box1 p{
+    float: left;
+}
+.box4
+{
+    background-color:#f2f4f5;
+   
+}
+.img1
+{
+    border: 1px solid lightgray;
+    padding:20px;
+    
+}
+.box4 button
+{
+    margin:20px;
+   
+}
+img,h3,a
+{
+    
+}
+.center
+{
+    padding:50px;
+}
+.pic button{
+  
+
+}
+ button{
+   
+        float:none !important;
+        margin: 0 auto
+    
+}
+.box2 a{
+    color:gray;
+}
+.ShowIcon{
+    padding-left: 1.5rem;
+}
+h2{
+    font-weight:400;
+}
+.productContainer{
+    margin-bottom: 2rem;
+}
